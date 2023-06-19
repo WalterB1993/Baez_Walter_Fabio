@@ -1,2 +1,8 @@
-# B-ez_Walter_Fabio
-Repositorio público correspondiente al TP Nº 3
+# Curso de programación full stack
+
+## Comisión A
+
+### Autor: Walter Fabio Báez
+- Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
+
+> Silicon Misiones - https://siliconmisiones.gob.ar/
